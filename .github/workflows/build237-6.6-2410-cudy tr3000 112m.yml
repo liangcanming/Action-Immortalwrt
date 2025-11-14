@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Build 237-6.6-24.10 cudy tr3000 512m
+name: Build 237-6.6-24.10 cudy tr3000 112m
 
 on:
   repository_dispatch:
