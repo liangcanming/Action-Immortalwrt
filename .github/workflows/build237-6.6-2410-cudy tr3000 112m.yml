@@ -20,7 +20,7 @@ env:
   REPO_URL: https://github.com/dailook/immortalwrt-mt798x-6.6
   REPO_BRANCH: openwrt-24.10-6.6
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: 237-24.10-6.6-cudy-tr3000-512m.config
+  CONFIG_FILE: 237-24.10-6.6-cudy-tr3000-112m.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2-6-1.sh
   UPLOAD_BIN_DIR: false
